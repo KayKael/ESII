@@ -15,4 +15,4 @@ isso é um teste
 
 
 
-(procura)[http://google.com]
+[procura](http://google.com)
