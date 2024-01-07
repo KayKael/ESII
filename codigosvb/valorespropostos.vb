@@ -2,7 +2,8 @@ Imports System
 
 Public Class ValoresPropostos
 public ValoresDistribuidos as ValoresDistribuidos
-public Contrato as Contrato
+public antigoContrato as Contrato
+public novoContrato as Contrato
 
     Public Sub New()
     End Sub
@@ -10,28 +11,26 @@ public Contrato as Contrato
     Public id_proposto As Integer
     Public servico As Integer
     Public valor_proposto As Double
+    Public valor_contrato As Double
     Public percentagem_proposta As Single
     Public percentagem_exec As Single
     Public execucao_material As Double
 
     Public Function calcular_eficiencia_distribuicao() As Double
-        ValoresDistribuidos.GetPercentagemExec() = percentagem_exec
         ValoresDistribuidos.GetExecucaoMaterial() = execucao_material
-    
+        Contrato.GetValorDoContrato() = valor_contrato
+        percentagem_exec = (valor_contrato * 100)/ execucao_material
 
-
-        Return 0.0
+        Return percentagem_exec
     End Function
 
     Public Function calcular_valor_proposto() As Double
-        Contrato.GetInflacao()*Contrato.GetOrcamento()= valor_proposto
-        If (valor_proposto < Contrato.GetOrcamento())  Then
-            Console.WriteLine("Valor Proposto menor que o valor do contrato anterior!"\n)
-            Console.WriteLine("Deseja continuar?"\n)
-        End If
+        novoContrato.GetValorDoContrato() = valor_contrato
+        percentagem_proposta= (percentagem_exec/100)
+        valor_proposto = (valor_contrato * percentagem_proposta) 
         
 
-        Return 0.0
+        Return valor_proposto
     End Function
 
     Public Property GetIdProposto() As Integer
