@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "WHR2CLBzKWln9fNZRItz35/b/gCCWza+7VqlILnyUwTJwHPHXKW/5GCxQRFFNxPLZU92DKjQLpNWAsDVAsabVQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\LoureirK\\OneDrive - Keyloop\\Desktop\\Testeseficiencia2\\Testeseficiencia2.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LoureirK\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\LoureirK\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
+    "C:\\Users\\LoureirK\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.0\\microsoft.net.test.sdk.17.6.0.nupkg.sha512",
+    "C:\\Users\\LoureirK\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.6.0\\microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",
+    "C:\\Users\\LoureirK\\.nuget\\packages\\microsoft.testplatform.testhost\\17.6.0\\microsoft.testplatform.testhost.17.6.0.nupkg.sha512",
+    "C:\\Users\\LoureirK\\.nuget\\packages\\mstest.testadapter\\3.0.4\\mstest.testadapter.3.0.4.nupkg.sha512",
+    "C:\\Users\\LoureirK\\.nuget\\packages\\mstest.testframework\\3.0.4\\mstest.testframework.3.0.4.nupkg.sha512",
+    "C:\\Users\\LoureirK\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\LoureirK\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\LoureirK\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\LoureirK\\OneDrive - Keyloop\\Desktop\\Eficiencia 2\\Eficiencia 2.vbproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\LoureirK\\OneDrive - Keyloop\\Desktop\\Eficiencia 2\\Eficiencia 2.vbproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

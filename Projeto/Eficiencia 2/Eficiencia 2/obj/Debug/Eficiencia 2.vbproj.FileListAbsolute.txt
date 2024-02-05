@@ -1,0 +1,27 @@
+C:\Users\kaell\source\repos\Eficiencia 2\Eficiencia 2\obj\Debug\Eficiencia 2.vbproj.AssemblyReference.cache
+C:\Users\kaell\source\repos\Eficiencia 2\Eficiencia 2\obj\Debug\Eficiencia_2.main.resources
+C:\Users\kaell\source\repos\Eficiencia 2\Eficiencia 2\obj\Debug\Eficiencia_2.Resources.resources
+C:\Users\kaell\source\repos\Eficiencia 2\Eficiencia 2\obj\Debug\Eficiencia 2.vbproj.GenerateResource.cache
+C:\Users\kaell\source\repos\Eficiencia 2\Eficiencia 2\obj\Debug\Eficiencia 2.vbproj.CoreCompileInputs.cache
+C:\Users\kaell\source\repos\Eficiencia 2\Eficiencia 2\bin\Debug\Eficiencia 2.exe.config
+C:\Users\kaell\source\repos\Eficiencia 2\Eficiencia 2\bin\Debug\Eficiencia 2.exe
+C:\Users\kaell\source\repos\Eficiencia 2\Eficiencia 2\bin\Debug\Eficiencia 2.pdb
+C:\Users\kaell\source\repos\Eficiencia 2\Eficiencia 2\bin\Debug\Eficiencia 2.xml
+C:\Users\kaell\source\repos\Eficiencia 2\Eficiencia 2\obj\Debug\Eficiencia 2.exe
+C:\Users\kaell\source\repos\Eficiencia 2\Eficiencia 2\obj\Debug\Eficiencia 2.xml
+C:\Users\kaell\source\repos\Eficiencia 2\Eficiencia 2\obj\Debug\Eficiencia 2.pdb
+C:\Users\kaell\source\repos\Eficiencia 2\Eficiencia 2\bin\Debug\MySql.Data.dll
+C:\Users\kaell\source\repos\Eficiencia 2\Eficiencia 2\obj\Debug\Eficiencia 2.vbproj.CopyComplete
+C:\Users\LoureirK\OneDrive - Keyloop\Desktop\Eficiencia 2\Eficiencia 2\bin\Debug\Eficiencia 2.exe.config
+C:\Users\LoureirK\OneDrive - Keyloop\Desktop\Eficiencia 2\Eficiencia 2\bin\Debug\Eficiencia 2.exe
+C:\Users\LoureirK\OneDrive - Keyloop\Desktop\Eficiencia 2\Eficiencia 2\bin\Debug\Eficiencia 2.pdb
+C:\Users\LoureirK\OneDrive - Keyloop\Desktop\Eficiencia 2\Eficiencia 2\bin\Debug\Eficiencia 2.xml
+C:\Users\LoureirK\OneDrive - Keyloop\Desktop\Eficiencia 2\Eficiencia 2\obj\Debug\Eficiencia 2.vbproj.AssemblyReference.cache
+C:\Users\LoureirK\OneDrive - Keyloop\Desktop\Eficiencia 2\Eficiencia 2\obj\Debug\Eficiencia_2.main.resources
+C:\Users\LoureirK\OneDrive - Keyloop\Desktop\Eficiencia 2\Eficiencia 2\obj\Debug\Eficiencia_2.Resources.resources
+C:\Users\LoureirK\OneDrive - Keyloop\Desktop\Eficiencia 2\Eficiencia 2\obj\Debug\Eficiencia 2.vbproj.GenerateResource.cache
+C:\Users\LoureirK\OneDrive - Keyloop\Desktop\Eficiencia 2\Eficiencia 2\obj\Debug\Eficiencia 2.vbproj.CoreCompileInputs.cache
+C:\Users\LoureirK\OneDrive - Keyloop\Desktop\Eficiencia 2\Eficiencia 2\obj\Debug\Eficiencia 2.vbproj.CopyComplete
+C:\Users\LoureirK\OneDrive - Keyloop\Desktop\Eficiencia 2\Eficiencia 2\obj\Debug\Eficiencia 2.exe
+C:\Users\LoureirK\OneDrive - Keyloop\Desktop\Eficiencia 2\Eficiencia 2\obj\Debug\Eficiencia 2.xml
+C:\Users\LoureirK\OneDrive - Keyloop\Desktop\Eficiencia 2\Eficiencia 2\obj\Debug\Eficiencia 2.pdb
