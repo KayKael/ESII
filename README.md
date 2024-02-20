@@ -1,3 +1,37 @@
+#English
+## Efficiency Project
+
+### Efficiency Project for Budget Distribution of Goods Contracts in the Portuguese Courts
+
+This repository contains the source code and documentation related to the Efficiency project.
+
+### Repository Structure
+
+- `Projeto`: Folder containing the main VB .NET project, where the source code and the `eficiencia.sql` database are located.
+- `Java Code`: Folder containing a Java source code skeleton, provided only as an example.
+- `Diagrama Sequencial.mdj`: File of the system's sequential diagram, created with the MagicDraw tool.
+- `DocumentacaoSistema ESII v1.0.pdf`: System documentation version 1.0.
+- `README.md`: This file, containing information about the project and usage instructions.
+- `Diagrama de Classes ESII.mdj`: File of the system's class diagram, created with the MagicDraw tool.
+- `Use Case Eficiência.mdj`: File of the system's use case diagram, created with the MagicDraw tool.
+
+### Usage Instructions
+
+1. **Setting Up the Environment:**
+   - Make sure you have Visual Studio Enterprise 2022 installed on your machine.
+   - Import the VB .NET project located in the `Projeto` folder into Visual Studio Enterprise 2022.
+   - Add the `MySql.Data.dll` file to the project to ensure that the program can import MySQL libraries.
+   - Create a MySQL database and import the `eficiencia.sql` script.
+
+2. **Running the Project:**
+   - Compile and run the VB .NET project from Visual Studio Enterprise 2022.
+   - Follow the instructions provided by the user interface to utilize the system's functionalities.
+
+### License
+
+This project is licensed under the [MIT License](LICENSE).
+
+#Portuguese
 ## Projeto Eficiência
 
 ### Trabalho de Eficiência da distribuição do orçamento de contratos de bens dos Tribunais de Portugal
